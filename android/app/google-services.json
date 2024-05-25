@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466731092599",
+    "project_id": "atya-e23c9",
+    "storage_bucket": "atya-e23c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466731092599:android:32e05f6cff592fef2fd472",
+        "android_client_info": {
+          "package_name": "com.example.yoga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhqcxWMTWCyUVWvY4Jloc0EzddJDjeO4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
