@@ -19,7 +19,8 @@ The Yoga App is a comprehensive mobile application designed to help users practi
 
 ## Screenshots
 
-![Onboarding Screen](screenshots/onboarding.png)
+![Onboarding Screen]![WhatsApp Image 2024-05-25 at 06 43 12_1cbf14c5](https://github.com/atya4011/Yoga/assets/120062241/162bfd4c-d5d8-4b44-b01c-d197ea239af6)
+
 ![Home Screen](screenshots/home.png)
 ![Asana Details](screenshots/asana_details.png)
 
